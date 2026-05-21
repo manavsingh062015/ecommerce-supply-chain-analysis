@@ -24,7 +24,8 @@ and what should operations teams do next week?
 
 ## Project Structure
 - `supply_chain_delay_analysis.ipynb` — Full analysis notebook
-- `SupplyChainDelay_Dashboard` — Power BI dashboard screenshots
+- `SupplyChainDelay_Dashboard` — Power BI dashboard screenshots <img width="1437" height="807" alt="SupplyChainDelay_Dashboard" src="https://github.com/user-attachments/assets/629f6b40-2b52-44bb-a193-f3cbbe1074c3" />
+
 
 ## How to Run
 1. Download the Olist dataset from Kaggle (link above)
